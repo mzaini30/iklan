@@ -1,67 +1,67 @@
-# Desain Iklan Meta Ads: Jasa Pembuatan Website Company Profile (Rp 100.000)
+# Desain Promosi & Iklan Kreatif (VectorCraft)
 
-Desain materi iklan (*ad creative*) profesional berkonsep **Dark Tech / Corporate** yang dirancang khusus untuk kampanye **Meta Ads (Facebook & Instagram Feed 1:1)** menggunakan **VectorCraft MCP**.
-
----
-
-## 📌 Daftar File & Format Aset
-
-| Nama File | Format | Resolusi / Ukuran | Keterangan |
-| :--- | :--- | :--- | :--- |
-| `iklan_company_profile_100rb.png` | PNG | 1080 × 1080 px | Format standar Meta Ads Feed (1:1 Square) |
-| `iklan_company_profile_100rb_2x.png` | PNG | 2160 × 2160 px | Format Ultra HD / Retina untuk display beresolusi tinggi |
-| `iklan_company_profile_100rb.svg` | SVG | Skalabel Vektor | Vektor murni dengan teks ter-outline (siap cetak / scale bebas) |
-| `iklan_company_profile_100rb.pdf` | PDF | Dokumen Vektor | Standar cetak / presentasi klien |
-| `iklan_company_profile_100rb.ai` | AI / VectorCraft | Format Proyek | Source file untuk diedit kembali di Adobe Illustrator / VectorCraft |
+Koleksi desain materi promosi dan iklan media sosial (rasio 4:5 / 1080x1350 px, feed Instagram & Meta Ads) yang dibuat menggunakan **MCP VectorCraft**. Semua file berbasis vektor penuh (clean light mode) dan siap diedit kembali sewaktu-waktu di **VectorCraft** maupun **Adobe Illustrator**.
 
 ---
 
-## 🎨 Spesifikasi Desain
+## 🎨 Galeri Desain
 
-* **Ukuran Kanvas:** 1080 × 1080 pt (Rasio 1:1)
-* **Palet Warna:**
-  * Background Utama: Deep Navy Midnight (`#080C16`)
-  * Ambient Lighting: Royal Blue Glow (`#1E3A8A`) & Emerald Glow (`#065F46`)
-  * Aksen Utama: Electric Royal Blue (`#2563EB`) & Sky Blue (`#38BDF8`)
-  * Badge Harga & Promo: Amber Gold (`#F59E0B` / `#FDE047`)
-  * Badge Diskon: Crimson Red (`#DC2626`)
-  * Teks: Pure White (`#FFFFFF`) & Muted Slate (`#94A3B8`)
-* **Tipografi:**
-  * Display Headline: *Bahnschrift* & *Impact*
-  * Body Text & UI: *Inter* & *Segoe UI*
+### 1. Jasa Pembuatan Website — Solusi Kredibilitas & Konversi Penjualan
+Desain berorientasi solusi bisnis dan membangun kredibilitas brand, mengatasi pain point pemilik usaha yang masih mengandalkan DM manual untuk closing pesanan.
 
----
+![Desain 1 - Jasa Website](desain_1_jasa_website.png)
 
-## 📢 Materi Copywriting Meta Ads
-
-### Variasi 1: Direct Offer (Fokus ke Nilai & Flash Sale)
-* **Primary Text:**
-  > Masih pakai link medsos biasa buat nawarin jasa/produk Anda? Saatnya bikin bisnis tampil 10x lebih kredibel dan terpercaya dengan Website Company Profile resmi!  
-  >  
-  > 🔥 **PROMO FLASH SALE KHUSUS HARI INI: CUMA 100 RIBU!** (Normal Rp 1.000.000)  
-  >  
-  > Yang Anda dapatkan:  
-  > ✅ Desain mewah & mobile friendly (responsif di semua HP)  
-  > ✅ Tombol langsung terhubung ke WhatsApp Anda  
-  > ✅ Siap online cepat (1-2 hari kerja)  
-  > ✅ Tinggal terima beres, bebas konsultasi  
-  >  
-  > ⚠️ *Slot promo dibatasi khusus 10 UMKM/bisnis pertama minggu ini.*
-* **Headline:** Bikin Web Company Profile Cuma 100 Ribu!
-* **Description:** Tinggal Terima Beres • Siap Online Cepat
-* **Call To Action:** Kirim Pesan WhatsApp (*Send WhatsApp Message*)
+* **Tema Warna:** Clean White, Royal Blue (`#2563EB`), Slate Navy (`#0F172A`).
+* **Format File:**
+  * [desain_1_jasa_website.ai](file:///D:/iklan/desain_1_jasa_website.ai) (Editable Adobe Illustrator)
+  * [desain_1_jasa_website.vectorcraft](file:///D:/iklan/desain_1_jasa_website.vectorcraft) (Native VectorCraft)
+  * [desain_1_jasa_website.svg](file:///D:/iklan/desain_1_jasa_website.svg) (Scalable Vector Graphic)
+  * [desain_1_jasa_website.png](file:///D:/iklan/desain_1_jasa_website.png) (Pratinjau Gambar)
 
 ---
 
-### Variasi 2: Problem - Agitation - Solution
-* **Primary Text:**
-  > Sering ditolak klien gara-gara bisnis belum punya website resmi? Atau mau bikin website tapi biayanya jutaan rupiah?  
-  >  
-  > Tenang, sekarang Anda bisa punya Website Company Profile profesional cuma **Rp 100.000 Nett!**  
-  >  
-  > Tanpa perlu pusing mikirin coding atau desain. Cukup kirim materi usaha Anda, kami yang kerjakan sampai siap dipakai.  
-  >  
-  > Klik tombol **Kirim Pesan** sekarang untuk konsultasi gratis dan amankan slot promonya! 📲
-* **Headline:** Solusi Bisnis Kredibel Tanpa Boncos Jutaan
-* **Description:** Promo Terbatas Hari Ini
-* **Call To Action:** Kirim Pesan WhatsApp (*Send WhatsApp Message*)
+### 2. Jasa Pembuatan Website — Komparasi "Jangan Samakan" (Before vs After)
+Desain perbandingan visual yang membedakan dampak bisnis tanpa website (serba manual, calon pembeli ragu, boncos) vs bisnis dengan website sendiri (kredibilitas instan, checkout 24 jam otomatis).
+
+![Desain 2 - Komparasi](desain_2_jasa_website_komparasi.png)
+
+* **Tema Warna:** Clean White, Rose Crimson (`#E11D48`), Fresh Emerald (`#059669`).
+* **Format File:**
+  * [desain_2_jasa_website_komparasi.ai](file:///D:/iklan/desain_2_jasa_website_komparasi.ai) (Editable Adobe Illustrator)
+  * [desain_2_jasa_website_komparasi.vectorcraft](file:///D:/iklan/desain_2_jasa_website_komparasi.vectorcraft) (Native VectorCraft)
+  * [desain_2_jasa_website_komparasi.svg](file:///D:/iklan/desain_2_jasa_website_komparasi.svg) (Scalable Vector Graphic)
+  * [desain_2_jasa_website_komparasi.png](file:///D:/iklan/desain_2_jasa_website_komparasi.png) (Pratinjau Gambar)
+
+---
+
+### 3. Jasa Pembuatan Website — Promo Paket Siap Jualan (All-in Terima Beres)
+Flyer promosi paket pembuatan website siap pakai dengan penawaran harga menarik, checklist benefit lengkap, garansi domain & hosting, dan urgensi terbatas.
+
+![Desain 3 - Promo Paket](desain_3_jasa_website_promo.png)
+
+* **Tema Warna:** Clean White, Fiery Orange (`#EA580C`), Warm Amber (`#F59E0B`), Deep Navy (`#0F172A`).
+* **Format File:**
+  * [desain_3_jasa_website_promo.ai](file:///D:/iklan/desain_3_jasa_website_promo.ai) (Editable Adobe Illustrator)
+  * [desain_3_jasa_website_promo.vectorcraft](file:///D:/iklan/desain_3_jasa_website_promo.vectorcraft) (Native VectorCraft)
+  * [desain_3_jasa_website_promo.svg](file:///D:/iklan/desain_3_jasa_website_promo.svg) (Scalable Vector Graphic)
+  * [desain_3_jasa_website_promo.png](file:///D:/iklan/desain_3_jasa_website_promo.png) (Pratinjau Gambar)
+
+---
+
+### 4. Tools Pembuat Video Motion — Kinetic & Cinematic SaaS Creator
+Desain promosi tools video motion untuk kreator, marketer, dan pemilik toko online yang ingin memproduksi video iklan sinematik dalam hitungan menit dari browser.
+
+![Desain 4 - Tools Video Motion](desain_4_tools_video_motion.png)
+
+* **Tema Warna:** Clean White, Electric Violet (`#7C3AED`), Magenta Pink (`#DB2777`), Slate Navy (`#0F172A`).
+* **Format File:**
+  * [desain_4_tools_video_motion.ai](file:///D:/iklan/desain_4_tools_video_motion.ai) (Editable Adobe Illustrator)
+  * [desain_4_tools_video_motion.vectorcraft](file:///D:/iklan/desain_4_tools_video_motion.vectorcraft) (Native VectorCraft)
+  * [desain_4_tools_video_motion.svg](file:///D:/iklan/desain_4_tools_video_motion.svg) (Scalable Vector Graphic)
+  * [desain_4_tools_video_motion.png](file:///D:/iklan/desain_4_tools_video_motion.png) (Pratinjau Gambar)
+
+---
+
+## 🛠️ Cara Mengedit File
+1. **Adobe Illustrator:** Buka file berformat `.ai` atau `.svg` secara langsung di Adobe Illustrator. Seluruh layer teks, bentuk, container card, dan warna tetap merupakan objek vektor asli.
+2. **VectorCraft MCP:** Buka file `.vectorcraft` menggunakan perintah `open_file` di VectorCraft untuk mengedit atribut warna, teks, layout, maupun menambahkan artboard baru.
