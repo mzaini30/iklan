@@ -48,12 +48,17 @@ Flyer promosi paket pembuatan website siap pakai dengan penawaran harga menarik,
 
 ---
 
-### 4. Tools Pembuat Video Motion — Kinetic & Cinematic SaaS Creator
-Desain promosi tools video motion untuk kreator, marketer, dan pemilik toko online yang ingin memproduksi video iklan sinematik dalam hitungan menit dari browser.
+### 4. Motion Studio — Aplikasi Web Animasi Motion Graphics Lokal Mandiri
+Desain promosi untuk **Motion Studio** (sesuai fitur nyata di `D:\motion-studio`), tools pembuat video animasi edukasi & fakta unik berbasis browser lokal yang dibantu AI dari ide topik, naskah per scene, rekaman suara/TTS, hingga ekspor video MP4 FastStart siap upload ke TikTok, Reels, dan Shorts.
 
-![Desain 4 - Tools Video Motion](desain_4_tools_video_motion.png)
+![Desain 4 - Motion Studio](desain_4_tools_video_motion.png)
 
 * **Tema Warna:** Clean White, Electric Violet (`#7C3AED`), Magenta Pink (`#DB2777`), Slate Navy (`#0F172A`).
+* **Keunggulan Nyata:**
+  * **Alur Kerja Dibantu AI:** Salin prompt ide dan naskah scene otomatis dari LLM (ChatGPT/Claude/Gemini).
+  * **Audio & SFX Bawaan:** Rekam suara mic langsung per scene, upload audio AI, atau TTS, lengkap dengan SFX prosedural.
+  * **Ekspor MP4 Native FastStart:** Durasi akurat tanpa bug 0 detik di HP, rasio dinamis 9:16 dan 16:9.
+  * **100% Berjalan Lokal:** Ringan di browser tanpa beban render After Effects dan bebas langganan bulanan.
 * **Format File:**
   * [desain_4_tools_video_motion.ai](file:///D:/iklan/desain_4_tools_video_motion.ai) (Editable Adobe Illustrator)
   * [desain_4_tools_video_motion.vectorcraft](file:///D:/iklan/desain_4_tools_video_motion.vectorcraft) (Native VectorCraft)
