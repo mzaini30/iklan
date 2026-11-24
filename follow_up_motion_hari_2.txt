@@ -1,0 +1,7 @@
+Halo Kak, soal Motion Studio kemarin, barangkali masih ragu apakah jalan di laptop biasa atau cara pakainya ribet?
+
+Motion Studio jalan 100% lokal di browser (Chrome/Edge), jadi tidak perlu install software berat atau spek tinggi. Di dalamnya sudah ada proyek demo siap putar dan alur prompt AI untuk bantu bikin ide, naskah per scene, rekam suara/TTS, sampai ekspor MP4 siap upload ke TikTok/Reels (9:16) maupun YouTube (16:9).
+
+Aksesnya Rp 30.000 sekali bayar (lifetime), tanpa biaya bulanan.
+
+Kakak rencananya mau bikin video buat platform apa nih? Kabari saja kalau ada yang mau ditanyakan dulu ya.
