@@ -1,0 +1,5 @@
+Halo Kak, soal tutorial cara membuat plugin WordPress pakai AI kemarin, barangkali masih ada yang bikin ragu?
+
+Biasanya yang paling sering ditanyakan itu takut ribet harus punya server atau install WordPress dulu sebelum mulai, atau khawatir tidak bisa ngoding. Di tutorial ini, Kakak bisa membuat plugin WordPress pakai AI tanpa harus install WordPress-nya terlebih dahulu di server, jadi lebih praktis untuk langsung dipraktikkan.
+
+Kalau masih penasaran alurnya atau mau tanya apakah cocok untuk plugin yang lagi Kakak butuhkan, balas saja pesan ini ya, biar saya bantu jelaskan.
